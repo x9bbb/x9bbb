@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **react, vue, angular, python, php, node, devops**
 
-- 📫 How to reach me **forglory0905@outlook.com**
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
