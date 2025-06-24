@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @x9bbb</h1>
 <h3 align="center">A passionate full-stack web/mobile/devops engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=for-glory&label=Profile%20views&color=0e75b6&style=flat" alt="for-glory" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=x9bbb&label=Profile%20views&color=0e75b6&style=flat" alt="x9bbb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=for-glory" alt="for-glory" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x9bbb" alt="x9bbb" /></a> </p>
 
 - 🌱 I’m currently learning **Svelte, Blockchain**
 
